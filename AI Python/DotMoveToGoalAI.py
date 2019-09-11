@@ -1,3 +1,5 @@
+# Author Zac Dair
+
 from graphics import *
 import random
 
