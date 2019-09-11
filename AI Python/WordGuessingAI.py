@@ -1,3 +1,5 @@
+# Author Zac Dair
+
 import random, string
 
 class Ai:
