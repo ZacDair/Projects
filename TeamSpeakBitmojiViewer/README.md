@@ -7,5 +7,6 @@ Currently the script is hosted on my Lightsail server, and can be seen by access
 However due to Teamspeak's server flood protection,  
 Sometimes the script will be inactive as the server blocks it's queries if too many are sent at once  
 
-This upload includes, a database connection file, the main file, and a submitID file, and also the required libraries for Teamspeak.
-This was built in PHP mainly, with a bit of javascript for the Teamspeak queries, and MYSQL for the database.
+This upload includes, a database connection file, the main file, and a submitID file,  
+and also the required libraries for Teamspeak.   
+This was built in PHP mainly, with a bit of javascript for the Teamspeak queries, and MYSQL for the database.  
