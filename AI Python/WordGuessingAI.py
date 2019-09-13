@@ -45,7 +45,7 @@ def main():
 
     # Initialize Variables
 
-    goalWord = "logitech"
+    goalWord = "word"
     print("Word to guess is: ", goalWord)
     gen = 1
     maxGen = 1000
