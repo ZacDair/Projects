@@ -1,4 +1,6 @@
 # Author Zac Dair
+# Change moves so they increase with each generation
+# Change moving mechanics to rely on vectors instead of coords
 
 from graphics import *
 import random
@@ -144,7 +146,7 @@ def main():
                     counter = counter + 1
                 i = i + 1
         # ------------------------------------------------------------------------------------------------------------------
-        # Cloning
+        # Old Cloning No longer used
         # ------------------------------------------------------------------------------------------------------------------
         #
         # newBrain = Brain(1000)
