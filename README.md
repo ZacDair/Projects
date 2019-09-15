@@ -11,5 +11,6 @@ Stack Assignment
 Video Game Server Simulation App  
 
 # Personal Projects:
-AI Python  
+AI Python   - Genetic Word Guessing
+AI Python   - Genetic Dots Moving to a Goal
 TeamSpeak Bitomoji Viewer  
