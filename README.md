@@ -10,7 +10,7 @@ Object Oriented School System
 Stack Assignment  
 Video Game Server Simulation App  
 
-# Personal Projects:
-AI Python   - Genetic Word Guessing
-AI Python   - Genetic Dots Moving to a Goal
-TeamSpeak Bitomoji Viewer  
+# Personal Projects:  
+AI Python   - Genetic Word Guessing  
+AI Python   - Genetic Dots Moving to a Goal  
+TeamSpeak Bitomoji Viewer    
