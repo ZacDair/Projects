@@ -12,5 +12,5 @@ Video Game Server Simulation App
 
 # Personal Projects:  
 AI Python   - Genetic Word Guessing  
-AI Python   - Genetic Dots Moving to a Goal  
+AI Python   - Genetic Dots Moving to a Goal  (Version 1 and 2)  
 TeamSpeak Bitomoji Viewer    
