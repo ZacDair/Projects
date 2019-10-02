@@ -14,3 +14,6 @@ Video Game Server Simulation App
 AI Python   - Genetic Word Guessing  
 AI Python   - Genetic Dots Moving to a Goal  (Version 1 and 2)  
 TeamSpeak Bitomoji Viewer    
+Definition Finder  
+Google Search  
+Auto Commenting  
