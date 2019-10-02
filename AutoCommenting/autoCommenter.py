@@ -1,6 +1,5 @@
 # Auto Comment System
 # Adds a comment for Title, Author and Date Create to the top of any .py file where this file is used in
-# path example C:\Users\zacda\PycharmProjects\untitled
 # Extra Features:
 #   Use cwd if no path given, or possibly ask the user for a path before runing
 #   Accept more extensions that just .py (add what symbol is needed for other languages)
@@ -31,7 +30,7 @@ if os.path.exists(docsPath):
     while i < len(docsContents):
 
         # If its a python file open it get the first 3 lines of the file
-        if docsContents[i].endswith("output.py"):
+        if docsContents[i].endswith(".py"):
             try:
                 with open(docsContents[i], "r+") as f:
                     head = [next(f) for x in range(3)]
