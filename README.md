@@ -17,3 +17,4 @@ TeamSpeak Bitomoji Viewer
 Definition Finder  
 Google Search  
 Auto Commenting  
+Steam Case Price Checker  
