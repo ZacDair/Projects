@@ -1,5 +1,5 @@
 # Projects
-Here is a collection of my projects, either from college or ones I have done on my own
+Here is a collection of my projects, either from college or personal projects  
 
 # College Projects:
 A01 Changing Word Game  
